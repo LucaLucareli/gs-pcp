@@ -1,0 +1,9 @@
+Nome do assistente: Citizen Assist AI
+Público atendido: Jovens em busca do primeiro emprego e cidadania digital (15 a 24 anos)
+Integrantes e RM:
+- ENZO SEIJI DELGADO TABUCHI (RM 573156)
+- LUCA ALMEIDA LUCARELI (RM 569061)
+- HENRIQUE ALMEIDA LUCARELI (RM 569183)
+Link do repositório GitHub: https://github.com/SEU_USUARIO/citizen-assist-ai
+Link do vídeo técnico no YouTube: https://youtu.be/SEU_LINK_DO_VIDEO
+

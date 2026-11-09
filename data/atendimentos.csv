@@ -1,0 +1,14 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-06 14:15:22,pergunta,como faco carteira de trabalho digital,1,True,True,1,4.2
+2026-11-06 14:18:05,pergunta,preciso do titulo de eleitor para votar,3,True,True,1,3.5
+2026-11-06 14:22:40,pergunta,como funciona o jovem aprendiz?,5,True,True,1,5.1
+2026-11-06 14:26:12,pergunta,como conseguir passe livre de onibus municipal,,False,False,2,6.8
+2026-11-06 16:05:10,pergunta,como tirar o cartao sus pelo celular,11,True,True,1,3.8
+2026-11-06 16:09:44,pergunta,quero consultar meu saldo do fgts,9,True,True,1,4.0
+2026-11-06 16:14:30,pergunta,como fazer alistamento militar do exercito,4,True,True,1,4.7
+2026-11-06 16:18:55,categoria,Navegação: Primeiro Emprego e Capacitação -> Cursos Gratuitos de Qualificação e Tecnologia,7,True,True,1,7.2
+2026-11-07 10:30:15,pergunta,o que e id jovem e como pedir meia entrada,10,True,True,1,4.5
+2026-11-07 10:34:50,pergunta,como subir nivel da conta gov para prata ou ouro,6,True,True,1,3.9
+2026-11-07 10:39:02,pergunta,quando sai o abono salarial do pis,8,True,True,1,4.1
+2026-11-07 10:44:18,pergunta,como tirar passaporte para viajar para fora,,False,False,2,5.5
+2026-11-08 10:51:37,pergunta,como tirar o primeiro titulo de eleitor,3,True,True,1,41.6

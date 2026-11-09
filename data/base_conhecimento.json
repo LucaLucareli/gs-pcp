@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação Básica",
+    "titulo": "Emitir a Carteira de Trabalho Digital (CTPS)",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira digital",
+      "carteira de trabalho digital",
+      "trabalho"
+    ],
+    "resposta": "A Carteira de Trabalho física foi substituída pela digital. Seu número oficial é o próprio CPF. O acesso é feito gratuitamente pelo aplicativo Carteira de Trabalho Digital ou pelo Portal Emprega Brasil.",
+    "documentos": [
+      "CPF regular",
+      "Conta gov.br (login e senha)"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android/iOS) ou site https://servicos.mte.gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação Básica",
+    "titulo": "Inscrição e Regularização do CPF",
+    "palavras_chave": [
+      "cpf",
+      "regularizar cpf",
+      "segunda via cpf",
+      "tirar cpf",
+      "receita federal"
+    ],
+    "resposta": "A emissão e regularização do CPF para cidadãos brasileiros pode ser solicitada online gratuitamente no site da Receita Federal. Em casos de divergência de dados, o atendimento pode ser concluído por e-mail da Receita ou presencialmente em agências conveniadas.",
+    "documentos": [
+      "Documento de identificação oficial com foto (RG ou Certidão de Nascimento)",
+      "Título de eleitor (para maiores de 18 anos)",
+      "Comprovante de endereço"
+    ],
+    "onde": "Site oficial da Receita Federal do Brasil ou agências conveniadas (Correios, Banco do Brasil, Caixa)",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação Básica",
+    "titulo": "Tirar o Primeiro Título de Eleitor (e-Título)",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo",
+      "e-titulo",
+      "primeiro titulo",
+      "votar",
+      "justica eleitoral"
+    ],
+    "resposta": "Jovens a partir de 16 anos podem solicitar o primeiro título pela internet através do sistema Autoatendimento Eleitoral (TítuloNet). Após a validação pelo cartório eleitoral, a via digital pode ser utilizada diretamente no app e-Título.",
+    "documentos": [
+      "Documento oficial de identidade com foto",
+      "Comprovante de residência atualizado",
+      "Certificado de quitação militar (para homens entre 18 e 45 anos)",
+      "Selfie segurando o documento de identidade"
+    ],
+    "onde": "Portal do TSE (Autoatendimento Eleitoral - TítuloNet) e aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação Básica",
+    "titulo": "Alistamento Militar Online Obrigatório",
+    "palavras_chave": [
+      "alistamento militar",
+      "exercito",
+      "reservista",
+      "junta militar",
+      "dispensa militar"
+    ],
+    "resposta": "Todo jovem do sexo masculino deve se alistar nos primeiros 6 meses do ano em que completa 18 anos. O processo pode ser realizado 100% online através do site do Alistamento Militar Oficial ou presencialmente na Junta de Serviço Militar do município.",
+    "documentos": [
+      "CPF",
+      "Certidão de Nascimento ou documento de identidade oficial",
+      "Comprovante de residência com CEP"
+    ],
+    "onde": "Site oficial do Alistamento Militar (alistamento.eb.mil.br) ou Junta de Serviço Militar mais próxima",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Primeiro Emprego e Capacitação",
+    "titulo": "Participar do Programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "menor aprendiz",
+      "aprendiz",
+      "primeiro emprego",
+      "estagio"
+    ],
+    "resposta": "Voltado para jovens de 14 a 24 anos matriculados ou que concluíram o ensino fundamental/médio. As vagas combinam formação teórica em entidades qualificadoras (Senai, Senac, CIEE) e prática nas empresas contratantes, garantindo carteira assinada e direitos trabalhistas.",
+    "documentos": [
+      "RG e CPF",
+      "Carteira de Trabalho Digital",
+      "Atestado de matrícula e frequência escolar (se estudante)",
+      "Currículo básico sem experiência prévia"
+    ],
+    "onde": "Instituições de formação conveniadas (CIEE, Espro, Senai, Senac) ou portais de carreiras de empresas",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Primeiro Emprego e Capacitação",
+    "titulo": "Criar e Subir Nível da Conta Gov.br",
+    "palavras_chave": [
+      "conta gov",
+      "gov.br",
+      "nivel prata",
+      "nivel ouro",
+      "login gov"
+    ],
+    "resposta": "A conta Gov.br é a identidade digital única do cidadão brasileiro para acessar serviços públicos. Ao criar, a conta começa em nível Bronze. Para assinar documentos ou acessar a carteira de trabalho completa, é recomendado subir para nível Prata (via validação bancária ou biometria da CNH) ou Ouro (biometria facial do TSE).",
+    "documentos": [
+      "CPF",
+      "Conta em banco conveniado (para nível Prata) ou biometria facial cadastrada na Justiça Eleitoral (para nível Ouro)"
+    ],
+    "onde": "Portal gov.br ou aplicativo oficial gov.br (Android e iOS)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/conta-gov-br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Primeiro Emprego e Capacitação",
+    "titulo": "Cursos Gratuitos de Qualificação e Tecnologia",
+    "palavras_chave": [
+      "cursos gratuitos",
+      "capacitacao",
+      "escola do trabalhador",
+      "qualificacao profissional",
+      "cursos online"
+    ],
+    "resposta": "O Ministério do Trabalho e parceiros oferecem cursos gratuitos 100% online em diversas áreas, incluindo programação, habilidades digitais e idiomas, por meio do portal da Escola do Trabalhador 4.0 e Sistema S com certificado gratuito.",
+    "documentos": [
+      "CPF",
+      "E-mail ativo",
+      "Conta Gov.br"
+    ],
+    "onde": "Portal Escola do Trabalhador 4.0 (gov.br) e plataformas do Sistema S",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/qualificacao-profissional",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Consultar e Sacar o PIS/PASEP (Abono Salarial)",
+    "palavras_chave": [
+      "pis",
+      "pasep",
+      "abono salarial",
+      "abono",
+      "calendario pis"
+    ],
+    "resposta": "O Abono Salarial é pago anualmente ao trabalhador que está cadastrado no PIS/PASEP há pelo menos cinco anos e trabalhou formalmente por pelo menos 30 dias no ano-base, recebendo até 2 salários mínimos médios. A consulta é liberada no app Carteira de Trabalho Digital.",
+    "documentos": [
+      "Número do CPF",
+      "Conta gov.br ou Cartão Cidadão"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital, app Caixa Trabalhador ou agências da Caixa e Banco do Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/abono-salarial",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Consultar Saldo e Extrato do FGTS",
+    "palavras_chave": [
+      "fgts",
+      "fundo de garantia",
+      "saldo fgts",
+      "saque aniversario",
+      "extrato fgts"
+    ],
+    "resposta": "O trabalhador com carteira assinada pode acompanhar mensalmente os depósitos feitos pelo empregador na conta vinculada do FGTS pelo aplicativo da Caixa. Também é possível optar pela modalidade do Saque-Aniversário ou autorizar consulta de saldo.",
+    "documentos": [
+      "CPF",
+      "Senha cadastrada no app FGTS ou biometria"
+    ],
+    "onde": "Aplicativo FGTS (Caixa Econômica Federal) disponível para smartphones ou site da Caixa",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e Benefícios",
+    "titulo": "Emitir a Identidade Jovem (ID Jovem)",
+    "palavras_chave": [
+      "id jovem",
+      "identidade jovem",
+      "meia entrada",
+      "passagem gratuita",
+      "transporte jovem"
+    ],
+    "resposta": "A ID Jovem é um documento virtual para jovens de 15 a 29 anos com renda familiar de até dois salários mínimos, inscritos no Cadastro Único (CadÚnico). Dá direito a 50% de desconto em eventos culturais e esportivos e a duas vagas gratuitas e duas com 50% de desconto no transporte interestadual coletivo.",
+    "documentos": [
+      "Número de Identificação Social (NIS) atualizado",
+      "Nome completo",
+      "Data de nascimento",
+      "Nome da mãe"
+    ],
+    "onde": "Aplicativo ID Jovem ou site oficial do programa ID Jovem do Governo Federal",
+    "fonte": "https://www.gov.br/secretariageral/pt-br/juventude/id-jovem",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 11,
+    "categoria": "Saúde e Apoio ao Cidadão",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Meu SUS Digital)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "meu sus digital",
+      "carteira de vacinacao"
+    ],
+    "resposta": "O Cartão SUS identifica o cidadão em toda a rede pública de saúde. Pode ser gerado virtualmente pelo aplicativo Meu SUS Digital (antigo Conecte SUS) usando a conta gov.br, ou emitido presencialmente em qualquer Unidade Básica de Saúde (UBS).",
+    "documentos": [
+      "Documento de identidade oficial com foto",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Qualquer Unidade Básica de Saúde (UBS) ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 12,
+    "categoria": "Saúde e Apoio ao Cidadão",
+    "titulo": "Acessar o Histórico e Comprovante de Vacinação",
+    "palavras_chave": [
+      "vacinacao",
+      "comprovante de vacina",
+      "carteira de vacina",
+      "vacina",
+      "doses sus"
+    ],
+    "resposta": "O histórico completo de imunização, incluindo vacinas contra febre amarela, tétano, gripe e covid-19, fica disponível digitalmente para consulta e emissão de certificado internacional no Meu SUS Digital.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Meu SUS Digital ou site meususdigital.saude.gov.br",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meu-sus-digital",
+    "verificado_em": "2026-11-05"
+  }
+]
+
