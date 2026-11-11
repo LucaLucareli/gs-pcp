@@ -1,25 +1,25 @@
-# Citizen Assist AI 🏛️🤖
+# Citizen Assist AI
 ### Assistente Digital de Orientação ao Cidadão
 **FIAP - Global Solution 2026.2**  
 **Disciplina:** Pensamento Computacional e Automação com Python (PCP)
 
 ---
 
-## 👥 Integrantes da Equipe
+## Integrantes da Equipe
 * **ENZO SEIJI DELGADO TABUCHI** - RM: 573156
 * **LUCA ALMEIDA LUCARELI** - RM: 569061
 * **HENRIQUE ALMEIDA LUCARELI** - RM: 569183
 
 ---
 
-## 🎯 Público e Problema Escolhido
+## Público e Problema Escolhido
 * **Público-alvo:** Jovens cidadãos em transição para a vida adulta e ingresso no primeiro emprego (15 a 24 anos).
 * **Problema:** Ao buscar o primeiro emprego ou atingir a maioridade civil, jovens enfrentam grande desinformação e burocracia sobre emissão de documentos essenciais (Carteira de Trabalho Digital, CPF, Título de Eleitor, Alistamento Militar, Conta Gov.br) e programas de oportunidade (Jovem Aprendiz, cursos profissionalizantes, FGTS, PIS e ID Jovem). As informações oficiais encontram-se fragmentadas em múltiplos portais governamentais, com linguagem burocrática, havendo risco constante de sites falsos ou golpes que cobram por serviços que são 100% gratuitos.
 * **Solução:** O **Citizen Assist AI** centraliza orientações oficiais, verificadas e em linguagem simples diretamente no terminal, sem exigir qualquer dado pessoal sensível do cidadão, indicando os documentos necessários, onde ir e a fonte oficial de checagem.
 
 ---
 
-## 🌍 Objetivos de Desenvolvimento Sustentável (ODS) Relacionados
+## Objetivos de Desenvolvimento Sustentável (ODS) Relacionados
 1. **ODS 8 - Trabalho Decente e Crescimento Econômico:** Facilita a entrada de jovens no mercado de trabalho formal através de orientações sobre Carteira de Trabalho Digital, Jovem Aprendiz e qualificação profissional gratuita.
 2. **ODS 10 - Redução das Desigualdades:** Democratiza o acesso a direitos e programas sociais (ID Jovem, Cartão SUS, Conta Gov.br, isenções) para jovens de baixa renda.
 3. **ODS 16 - Paz, Justiça e Instituições Eficazes:** Garante acesso à identidade civil, documentação básica (CPF, Título de Eleitor, Alistamento) e transparência nas instituições públicas.
@@ -61,7 +61,7 @@
 
 ---
 
-## 🧠 Regra de Pontuação e Inteligência de Busca
+## Regra de Pontuação e Inteligência de Busca
 
 A busca inteligente do assistente opera por regras baseadas em pontuação matemática e normalização textual:
 
@@ -92,7 +92,7 @@ Pergunta do usuário: *"Como faço o cartão do SUS?"*
 
 ---
 
-## 🏛️ Arquitetura Orientada a Objetos e Composição
+## Arquitetura Orientada a Objetos e Composição
 
 O sistema foi estruturado estritamente em Programação Orientada a Objetos com o princípio de responsabilidade única e composição:
 
@@ -141,13 +141,13 @@ classDiagram
 
 ---
 
-## 🔗 Integração com Outras Disciplinas
+## Integração com Outras Disciplinas
 * **Data Structures and Algorithms (DSA):** Utilização de ordenação com tuplas compostas `(pontos, orientacao)` com critério de desempate, tratamento de coleções com conjuntos (`set`) para buscas $O(1)$ de termos da pergunta e dicionários invertidos de mapeamento por chave.
 * **Computer Organization and Architecture (COA) / Segurança e Redes:** Princípios de privacidade por design (*Privacy by Design*) e proteção contra vazamento de dados pessoais (Data Loss Prevention - DLP) direto no buffer de entrada do terminal, sem expor metadados sensíveis a logs de terceiros.
 
 ---
 
-## 🌐 Fontes Oficiais Consultadas
+## Fontes Oficiais Consultadas
 Todas as orientações foram redigidas com base em canais oficiais dos órgãos públicos brasileiros, conferidas em novembro de 2026:
 * **Ministério do Trabalho e Emprego:** Carteira de Trabalho Digital, Jovem Aprendiz e Abono Salarial PIS/PASEP (https://www.gov.br/trabalho-e-emprego)
 * **Receita Federal do Brasil:** Inscrição e Regularização do CPF (https://www.gov.br/receitafederal)
@@ -160,7 +160,7 @@ Todas as orientações foram redigidas com base em canais oficiais dos órgãos 
 
 ---
 
-## 📊 Resultado do Teste com Usuários Reais
+## Resultado do Teste com Usuários Reais
 
 Antes da gravação do vídeo técnico, o assistente foi submetido a testes com **3 pessoas de fora da equipe**, totalizando **12 atendimentos** (acima da exigência mínima de 10):
 
@@ -182,7 +182,7 @@ Antes da gravação do vídeo técnico, o assistente foi submetido a testes com 
 
 ---
 
-## ⚠️ Limitações do Assistente
+## Limitações do Assistente
 1. **Escopo de Jurisdição:** O assistente foca em serviços federais e de abrangência nacional. Requisitos específicos de municípios (como gratuidade no transporte coletivo urbano ou IPTU) dependem da legislação de cada prefeitura e não estão cadastrados.
 2. **Busca Heurística Léxica:** Como utiliza comparação por regras e palavras-chave exatas (sem modelo de linguagem probabilístico ou LLM externo), sinônimos muito distantes ou termos com erros ortográficos graves não previstos podem receber pontuação menor que 3 e cair como "Não encontrado".
 
