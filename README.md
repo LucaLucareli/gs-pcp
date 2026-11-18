@@ -188,7 +188,6 @@ Antes da gravação do vídeo técnico, o assistente foi submetido a testes com 
 
 ---
 
-## 🎥 Link do Vídeo Técnico no YouTube
-* **URL do Vídeo (YouTube - Não Listado):** `https://youtu.be/SEU_LINK_AQUI`  
-*(Substitua pelo link do vídeo gravado pela equipe conforme o roteiro em `ROTEIRO_VIDEO.md`).*
+## Link do Vídeo Técnico no YouTube
+* **URL do Vídeo (YouTube - Não Listado):** `https://youtu.be/na14vqs-_Pw`  
 
